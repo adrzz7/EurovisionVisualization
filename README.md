@@ -25,5 +25,4 @@ Group project — contributed to data preparation, exploratory visualizations, a
 - Exploratory Data Analysis (EDA)
 - Data cleaning
 - Data visualization
-- Team-based project work
 
